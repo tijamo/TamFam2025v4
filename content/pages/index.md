@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Hello...
-    subtitle: ...and welcome.
+    subtitle: ''
     styles:
       self:
         height: auto
