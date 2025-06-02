@@ -35,13 +35,7 @@ sections:
     actions: []
   - type: TextSection
     title: The Section Title
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: "So, now that you've found us, we encourage you to have a look around and find out more about us. \n\nYou can use our\_contact form\_for any questions or anything you would like to say to us.We're a friendly bunch of very ordinary non-judgemental people.Although we are called Tamworth Christadelphian Church, we have relocated to Dordon Village Hall, as we grew too large for our previous space. \n\nWe would like you to think of us as the Church in the Village Hall, where you can feel free to pop in and meet us on any Sunday morning.\n\nDordon Village Hall, Browns Lane, Dordon, Tamworth B78 1TL\n"
     colors: colors-f
     variant: variant-a
     elementId: ''
