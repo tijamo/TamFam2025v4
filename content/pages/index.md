@@ -14,10 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Hello...
-    subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    subtitle: "Hello ...... and welcome.So, now that you've found us, we encourage you to have a look around and find out more about us. You can use our\_contact form\_for any questions or anything you would like to say to us.We're a friendly bunch of very ordinary non-judgemental people.Although we are called Tamworth Christadelphian Church, we have relocated to Dordon Village Hall, as we grew too large for our previous space. We would like you to think of us as the Church in the Village Hall, where you can feel free to pop in and meet us on any Sunday morning.Dordon Village Hall, Browns Lane, Dordon, Tamworth B78 1TL"
     styles:
       self:
         height: auto
