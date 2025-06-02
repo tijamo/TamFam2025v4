@@ -5,7 +5,7 @@ layer(base);
 @plugin '@tailwindcss/typography';
 
 @theme {
-    --font-body: var(--theme-font-body, monospace);
+    --font-body: var(--theme-font-body, sans-serif);
     --background-color-main: var(--theme-dark);
     --background-color-inverse: var(--theme-on-dark);
     --text-color-main: var(--theme-on-dark);
