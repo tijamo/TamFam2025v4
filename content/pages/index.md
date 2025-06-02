@@ -13,13 +13,8 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
-    subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    title: Hello...
+    subtitle: ...and welcome.
     styles:
       self:
         height: auto
@@ -38,57 +33,19 @@ sections:
         textAlign: left
     type: HeroSection
     actions: []
-  - colors: colors-f
-    type: FeaturedProjectsSection
-    elementId: ''
-    actions:
-      - type: Link
-        label: See all projects
-        url: /projects
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    variant: variant-b
-    projects:
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        textAlign: left
-    subtitle: Projects
-  - type: FeaturedPostsSection
-    elementId: ''
+  - type: TextSection
+    title: ...and Welcome.
+    text: "So, now that you've found us, we encourage you to have a look around and find out more about us. \n\nYou can use our\_contact form\_for any questions or anything you would like to say to us.We're a friendly bunch of very ordinary non-judgemental people.Although we are called Tamworth Christadelphian Church, we have relocated to Dordon Village Hall, as we grew too large for our previous space. \n\nWe would like you to think of us as the Church in the Village Hall, where you can feel free to pop in and meet us on any Sunday morning.\n\nDordon Village Hall, Browns Lane, Dordon, Tamworth B78 1TL\n"
     colors: colors-f
-    variant: variant-d
-    subtitle: Featured Posts
-    showFeaturedImage: false
-    actions:
-      - type: Link
-        label: See all posts
-        url: /blog
-    posts:
-      - content/pages/blog/post-six.md
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
-    showDate: true
-    showExcerpt: true
-    showReadMoreLink: true
+    variant: variant-a
+    elementId: ''
     styles:
       self:
         height: auto
         width: narrow
         padding:
           - pt-28
-          - pb-48
+          - pb-28
           - pl-4
           - pr-4
         textAlign: left
