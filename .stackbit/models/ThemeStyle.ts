@@ -85,7 +85,11 @@ export const ThemeStyleModel: Model = {
             name: 'fontBody',
             label: 'Font',
             group: 'text-styles',
-            options: [
+            options: 
+                {
+                    label: 'Poppins',
+                    value: '"Poppins", sans-serif'
+                },
                 {
                     label: 'DM Mono',
                     value: '"DM Mono", monospace'
@@ -95,7 +99,7 @@ export const ThemeStyleModel: Model = {
                     value: '"Azeret Mono", monospace'
                 }
             ],
-            default: '"DM Mono", monospace',
+            default: '"Poppins", sans-serif',
             required: true
         },
         {
